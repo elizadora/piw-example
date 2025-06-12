@@ -1,0 +1,46 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #333446;
+    height: 50px;
+    padding: 8px;
+    color: aliceblue;
+}
+
+
+.text-logo{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+nav{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: end;
+}
+
+nav a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+nav a:hover{
+    text-decoration: underline;
+}
+
+nav button{
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 2px 8px 2px 8px;
+    cursor: pointer;
+    border: none;
+}
+
+nav button:hover{
+    background-color: rgb(199, 204, 208);
+    border-radius: 10px;
+    padding: 2px 8px 2px 8px;
+    cursor: pointer;
+}
