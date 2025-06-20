@@ -1,0 +1,21 @@
+.footer{
+     background-color: #333446;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     flex-direction: column;
+     min-height: 200px;
+     gap: 30px;
+     color: aliceblue;
+}
+
+.social-media{
+     display: flex;
+     gap: 20px;
+     font-size: 24px;
+}
+
+.icon{
+     cursor: pointer;
+}
+

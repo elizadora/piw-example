@@ -1,0 +1,13 @@
+.hero-container{
+    display: flex;
+    padding: 10px;
+    margin-top: 28px;
+    justify-content: space-evenly;
+}
+.text-section{
+    width: 500px;
+}
+
+.image{
+    text-align: center;
+}
