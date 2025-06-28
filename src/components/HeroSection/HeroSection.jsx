@@ -5,8 +5,8 @@ export default function HeroSection() {
     return (
         <section className="hero-container">
             <div className="text-section">
-                <h2>Lorem Ipsum</h2>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
+                <h2>Bem-vindo à sua nova Lista de Tarefas!</h2>
+                <p>A maneira mais simples e eficiente de organizar seu dia a dia. Com a nossa ferramenta, você pode criar tarefas rapidamente, definir prazos, priorizar suas atividades e acessar sua lista de qualquer lugar.</p>
             </div>
             <div className="image">
                 <img src={heroImage} width="500px" />
